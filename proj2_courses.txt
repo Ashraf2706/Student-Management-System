@@ -1,0 +1,11 @@
+CMSC,201,Computer Science I 
+CMSC,202,Computer Science II 
+CMSC,203,Discrete Structures 
+CMSC,304,Social and Ethical Issues in Information Technology
+CMSC,313,Computer Organization and Assembly Language
+CMSC,331,Principles of Programming Language 
+CMSC,341,Data Structures 
+CMSC,411,Computer Architecture 
+CMSC,421,Principles of Operating Systems 
+CMSC,441,Design and Analysis of Algorithms
+CMSC,447,Software Engineering I 
